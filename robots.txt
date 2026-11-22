@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://invoicegenerator.github.io/sitemap.xml
